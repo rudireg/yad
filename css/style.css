@@ -1,0 +1,13 @@
+body {font-family: Geneva, Arial, Helvetica, sans-serif;}
+h1,h2,h3,h4,h5,h6 {color:#006699;}
+.block{width:25%;background:#FFCC99; padding:5px; float:left; margin-right:1px;}
+.block_2{width:73%; padding:5px; float:left;}
+.soft-text{color:#666666;font-size:14px;}
+.value-text{color:#003300;font-size:14px;font-weight:600;}
+.table_body{text-align:left;}
+td{vertical-align: top;}
+.blockBody{border:1px solid #CCCCCC; border-radius:5px; padding:5px;background:#FFFFEC;}
+.g-hidden {display: none;}
+label.error {color: red;font-style: italic;}
+input.error {border: 1px dotted #f00;}
+textarea.error {border: 1px dotted #f00;}
